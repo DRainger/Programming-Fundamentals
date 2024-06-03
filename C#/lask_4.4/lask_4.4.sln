@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lask_4.4", "lask_4.4\lask_4.4.csproj", "{23CDE94B-CDE4-48C8-A8E8-F076309300B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23CDE94B-CDE4-48C8-A8E8-F076309300B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23CDE94B-CDE4-48C8-A8E8-F076309300B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23CDE94B-CDE4-48C8-A8E8-F076309300B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23CDE94B-CDE4-48C8-A8E8-F076309300B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B4658EB-22D2-4D26-A511-81FAE7689EC4}
+	EndGlobalSection
+EndGlobal

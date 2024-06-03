@@ -1,0 +1,7 @@
+E:\School\אלגוריתמיקה ותוכנה\task_4\task_4\bin\Debug\task_4.exe.config
+E:\School\אלגוריתמיקה ותוכנה\task_4\task_4\bin\Debug\task_4.exe
+E:\School\אלגוריתמיקה ותוכנה\task_4\task_4\bin\Debug\task_4.pdb
+E:\School\אלגוריתמיקה ותוכנה\task_4\task_4\obj\Debug\task_4.csproj.AssemblyReference.cache
+E:\School\אלגוריתמיקה ותוכנה\task_4\task_4\obj\Debug\task_4.csproj.CoreCompileInputs.cache
+E:\School\אלגוריתמיקה ותוכנה\task_4\task_4\obj\Debug\task_4.exe
+E:\School\אלגוריתמיקה ותוכנה\task_4\task_4\obj\Debug\task_4.pdb

@@ -1,0 +1,7 @@
+E:\School\אלגוריתמיקה ותוכנה\task_6\task_6\bin\Debug\task_6.exe.config
+E:\School\אלגוריתמיקה ותוכנה\task_6\task_6\bin\Debug\task_6.exe
+E:\School\אלגוריתמיקה ותוכנה\task_6\task_6\bin\Debug\task_6.pdb
+E:\School\אלגוריתמיקה ותוכנה\task_6\task_6\obj\Debug\task_6.csproj.AssemblyReference.cache
+E:\School\אלגוריתמיקה ותוכנה\task_6\task_6\obj\Debug\task_6.csproj.CoreCompileInputs.cache
+E:\School\אלגוריתמיקה ותוכנה\task_6\task_6\obj\Debug\task_6.exe
+E:\School\אלגוריתמיקה ותוכנה\task_6\task_6\obj\Debug\task_6.pdb

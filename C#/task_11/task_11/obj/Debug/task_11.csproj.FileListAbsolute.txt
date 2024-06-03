@@ -1,0 +1,14 @@
+E:\School\אלגוריתמיקה ותוכנה\task_11\task_11\bin\Debug\task_11.exe.config
+E:\School\אלגוריתמיקה ותוכנה\task_11\task_11\bin\Debug\task_11.exe
+E:\School\אלגוריתמיקה ותוכנה\task_11\task_11\bin\Debug\task_11.pdb
+E:\School\אלגוריתמיקה ותוכנה\task_11\task_11\obj\Debug\task_11.csproj.AssemblyReference.cache
+E:\School\אלגוריתמיקה ותוכנה\task_11\task_11\obj\Debug\task_11.csproj.CoreCompileInputs.cache
+E:\School\אלגוריתמיקה ותוכנה\task_11\task_11\obj\Debug\task_11.exe
+E:\School\אלגוריתמיקה ותוכנה\task_11\task_11\obj\Debug\task_11.pdb
+D:\School\אלגוריתמיקה ותוכנה\task_11\task_11\bin\Debug\task_11.exe.config
+D:\School\אלגוריתמיקה ותוכנה\task_11\task_11\bin\Debug\task_11.exe
+D:\School\אלגוריתמיקה ותוכנה\task_11\task_11\bin\Debug\task_11.pdb
+D:\School\אלגוריתמיקה ותוכנה\task_11\task_11\obj\Debug\task_11.csproj.AssemblyReference.cache
+D:\School\אלגוריתמיקה ותוכנה\task_11\task_11\obj\Debug\task_11.csproj.CoreCompileInputs.cache
+D:\School\אלגוריתמיקה ותוכנה\task_11\task_11\obj\Debug\task_11.exe
+D:\School\אלגוריתמיקה ותוכנה\task_11\task_11\obj\Debug\task_11.pdb

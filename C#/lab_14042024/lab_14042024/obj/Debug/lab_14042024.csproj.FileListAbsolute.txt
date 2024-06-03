@@ -1,0 +1,7 @@
+E:\School\אלגוריתמיקה ותוכנה\task_1.1\lab_14042024\lab_14042024\obj\Debug\lab_14042024.csproj.AssemblyReference.cache
+E:\School\אלגוריתמיקה ותוכנה\task_1.1\lab_14042024\lab_14042024\obj\Debug\lab_14042024.csproj.CoreCompileInputs.cache
+E:\School\אלגוריתמיקה ותוכנה\task_1.1\lab_14042024\lab_14042024\bin\Debug\lab_14042024.exe.config
+E:\School\אלגוריתמיקה ותוכנה\task_1.1\lab_14042024\lab_14042024\bin\Debug\lab_14042024.exe
+E:\School\אלגוריתמיקה ותוכנה\task_1.1\lab_14042024\lab_14042024\bin\Debug\lab_14042024.pdb
+E:\School\אלגוריתמיקה ותוכנה\task_1.1\lab_14042024\lab_14042024\obj\Debug\lab_14042024.exe
+E:\School\אלגוריתמיקה ותוכנה\task_1.1\lab_14042024\lab_14042024\obj\Debug\lab_14042024.pdb

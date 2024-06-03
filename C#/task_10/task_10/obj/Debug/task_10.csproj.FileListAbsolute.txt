@@ -1,0 +1,14 @@
+E:\School\אלגוריתמיקה ותוכנה\task_10\task_10\bin\Debug\task_10.exe.config
+E:\School\אלגוריתמיקה ותוכנה\task_10\task_10\bin\Debug\task_10.exe
+E:\School\אלגוריתמיקה ותוכנה\task_10\task_10\bin\Debug\task_10.pdb
+E:\School\אלגוריתמיקה ותוכנה\task_10\task_10\obj\Debug\task_10.csproj.AssemblyReference.cache
+E:\School\אלגוריתמיקה ותוכנה\task_10\task_10\obj\Debug\task_10.csproj.CoreCompileInputs.cache
+E:\School\אלגוריתמיקה ותוכנה\task_10\task_10\obj\Debug\task_10.exe
+E:\School\אלגוריתמיקה ותוכנה\task_10\task_10\obj\Debug\task_10.pdb
+D:\School\אלגוריתמיקה ותוכנה\task_10\task_10\obj\Debug\task_10.csproj.AssemblyReference.cache
+D:\School\אלגוריתמיקה ותוכנה\task_10\task_10\obj\Debug\task_10.csproj.CoreCompileInputs.cache
+D:\School\אלגוריתמיקה ותוכנה\task_10\task_10\obj\Debug\task_10.exe
+D:\School\אלגוריתמיקה ותוכנה\task_10\task_10\obj\Debug\task_10.pdb
+D:\School\אלגוריתמיקה ותוכנה\task_10\task_10\bin\Debug\task_10.exe.config
+D:\School\אלגוריתמיקה ותוכנה\task_10\task_10\bin\Debug\task_10.exe
+D:\School\אלגוריתמיקה ותוכנה\task_10\task_10\bin\Debug\task_10.pdb

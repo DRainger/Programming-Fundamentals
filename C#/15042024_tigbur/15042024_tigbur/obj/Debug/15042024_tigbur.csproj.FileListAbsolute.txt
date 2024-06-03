@@ -1,0 +1,7 @@
+D:\School\אלגוריתמיקה ותוכנה\15042024_tigbur\15042024_tigbur\bin\Debug\15042024_tigbur.exe.config
+D:\School\אלגוריתמיקה ותוכנה\15042024_tigbur\15042024_tigbur\bin\Debug\15042024_tigbur.exe
+D:\School\אלגוריתמיקה ותוכנה\15042024_tigbur\15042024_tigbur\bin\Debug\15042024_tigbur.pdb
+D:\School\אלגוריתמיקה ותוכנה\15042024_tigbur\15042024_tigbur\obj\Debug\15042024_tigbur.csproj.AssemblyReference.cache
+D:\School\אלגוריתמיקה ותוכנה\15042024_tigbur\15042024_tigbur\obj\Debug\15042024_tigbur.csproj.CoreCompileInputs.cache
+D:\School\אלגוריתמיקה ותוכנה\15042024_tigbur\15042024_tigbur\obj\Debug\15042024_tigbur.exe
+D:\School\אלגוריתמיקה ותוכנה\15042024_tigbur\15042024_tigbur\obj\Debug\15042024_tigbur.pdb

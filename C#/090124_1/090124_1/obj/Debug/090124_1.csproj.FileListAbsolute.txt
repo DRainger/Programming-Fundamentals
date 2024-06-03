@@ -1,0 +1,7 @@
+F:\School\אלגוריתמיקה ותוכנה\090124_1\090124_1\bin\Debug\090124_1.exe.config
+F:\School\אלגוריתמיקה ותוכנה\090124_1\090124_1\bin\Debug\090124_1.exe
+F:\School\אלגוריתמיקה ותוכנה\090124_1\090124_1\bin\Debug\090124_1.pdb
+F:\School\אלגוריתמיקה ותוכנה\090124_1\090124_1\obj\Debug\090124_1.csproj.AssemblyReference.cache
+F:\School\אלגוריתמיקה ותוכנה\090124_1\090124_1\obj\Debug\090124_1.csproj.CoreCompileInputs.cache
+F:\School\אלגוריתמיקה ותוכנה\090124_1\090124_1\obj\Debug\090124_1.exe
+F:\School\אלגוריתמיקה ותוכנה\090124_1\090124_1\obj\Debug\090124_1.pdb

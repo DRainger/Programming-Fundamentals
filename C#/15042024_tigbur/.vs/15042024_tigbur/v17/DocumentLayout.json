@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\School\\\u05D0\u05DC\u05D2\u05D5\u05E8\u05D9\u05EA\u05DE\u05D9\u05E7\u05D4 \u05D5\u05EA\u05D5\u05DB\u05E0\u05D4\\15042024_tigbur\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8E7239-6E52-49AB-B412-FA4174860564}|15042024_tigbur\\15042024_tigbur.csproj|d:\\school\\\u05D0\u05DC\u05D2\u05D5\u05E8\u05D9\u05EA\u05DE\u05D9\u05E7\u05D4 \u05D5\u05EA\u05D5\u05DB\u05E0\u05D4\\15042024_tigbur\\15042024_tigbur\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E8E7239-6E52-49AB-B412-FA4174860564}|15042024_tigbur\\15042024_tigbur.csproj|solutionrelative:15042024_tigbur\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\School\\\u05D0\u05DC\u05D2\u05D5\u05E8\u05D9\u05EA\u05DE\u05D9\u05E7\u05D4 \u05D5\u05EA\u05D5\u05DB\u05E0\u05D4\\15042024_tigbur\\15042024_tigbur\\Program.cs",
+              "RelativeDocumentMoniker": "15042024_tigbur\\Program.cs",
+              "ToolTip": "D:\\School\\\u05D0\u05DC\u05D2\u05D5\u05E8\u05D9\u05EA\u05DE\u05D9\u05E7\u05D4 \u05D5\u05EA\u05D5\u05DB\u05E0\u05D4\\15042024_tigbur\\15042024_tigbur\\Program.cs",
+              "RelativeToolTip": "15042024_tigbur\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T17:35:59.393Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

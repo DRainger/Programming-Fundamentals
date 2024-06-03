@@ -1,0 +1,7 @@
+F:\School\אלגוריתמיקה ותוכנה\lask_4.4\lask_4.4\bin\Debug\lask_4.4.exe.config
+F:\School\אלגוריתמיקה ותוכנה\lask_4.4\lask_4.4\bin\Debug\lask_4.4.exe
+F:\School\אלגוריתמיקה ותוכנה\lask_4.4\lask_4.4\bin\Debug\lask_4.4.pdb
+F:\School\אלגוריתמיקה ותוכנה\lask_4.4\lask_4.4\obj\Debug\lask_4.4.csproj.AssemblyReference.cache
+F:\School\אלגוריתמיקה ותוכנה\lask_4.4\lask_4.4\obj\Debug\lask_4.4.csproj.CoreCompileInputs.cache
+F:\School\אלגוריתמיקה ותוכנה\lask_4.4\lask_4.4\obj\Debug\lask_4.4.exe
+F:\School\אלגוריתמיקה ותוכנה\lask_4.4\lask_4.4\obj\Debug\lask_4.4.pdb

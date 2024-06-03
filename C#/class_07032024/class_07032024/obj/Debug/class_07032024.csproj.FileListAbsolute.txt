@@ -1,0 +1,7 @@
+E:\School\אלגוריתמיקה ותוכנה\class_07032024\class_07032024\bin\Debug\class_07032024.exe.config
+E:\School\אלגוריתמיקה ותוכנה\class_07032024\class_07032024\bin\Debug\class_07032024.exe
+E:\School\אלגוריתמיקה ותוכנה\class_07032024\class_07032024\bin\Debug\class_07032024.pdb
+E:\School\אלגוריתמיקה ותוכנה\class_07032024\class_07032024\obj\Debug\class_07032024.csproj.AssemblyReference.cache
+E:\School\אלגוריתמיקה ותוכנה\class_07032024\class_07032024\obj\Debug\class_07032024.csproj.CoreCompileInputs.cache
+E:\School\אלגוריתמיקה ותוכנה\class_07032024\class_07032024\obj\Debug\class_07032024.exe
+E:\School\אלגוריתמיקה ותוכנה\class_07032024\class_07032024\obj\Debug\class_07032024.pdb
