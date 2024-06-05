@@ -1,0 +1,14 @@
+﻿  driver.cpp
+c:\users\hawke\source\repos\lab_7\lab_7\driver.cpp(14): error C2276: '&': illegal operation on bound member function expression
+c:\users\hawke\source\repos\lab_7\lab_7\driver.cpp(15): error C3867: 'student::print': non-standard syntax; use '&' to create a pointer to member
+c:\users\hawke\source\repos\lab_7\lab_7\driver.cpp(16): error C2276: '&': illegal operation on bound member function expression
+c:\users\hawke\source\repos\lab_7\lab_7\driver.cpp(17): error C3867: 'Professor::print': non-standard syntax; use '&' to create a pointer to member
+  Professor.cpp
+c:\users\hawke\source\repos\lab_7\lab_7\professor.cpp(25): error C2039: 'Print': is not a member of 'person'
+  c:\users\hawke\source\repos\lab_7\lab_7\person.h(9): note: see declaration of 'person'
+c:\users\hawke\source\repos\lab_7\lab_7\professor.cpp(25): error C3861: 'Print': identifier not found
+  student.cpp
+c:\users\hawke\source\repos\lab_7\lab_7\student.cpp(25): error C2039: 'Print': is not a member of 'person'
+  c:\users\hawke\source\repos\lab_7\lab_7\person.h(9): note: see declaration of 'person'
+c:\users\hawke\source\repos\lab_7\lab_7\student.cpp(25): error C3861: 'Print': identifier not found
+  Generating Code...

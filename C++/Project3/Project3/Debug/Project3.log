@@ -1,0 +1,3 @@
+﻿  Word.cpp
+c:\users\hawke\source\repos\project3\debug\word.cpp(15): warning C4715: 'Word::random_char': not all control paths return a value
+  Project3.vcxproj -> C:\Users\Hawke\source\repos\Project3\Debug\Project3.exe

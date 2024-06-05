@@ -1,0 +1,5 @@
+﻿  SnakesAndLadders.cpp
+c:\users\hawke\source\repos\assingment1_2\assingment1_2\snakesandladders.cpp(56): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\hawke\source\repos\assingment1_2\assingment1_2\snakesandladders.cpp(89): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\hawke\source\repos\assingment1_2\assingment1_2\snakesandladders.cpp(109): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  assingment1_2.vcxproj -> C:\Users\Hawke\source\repos\assingment1_2\Debug\assingment1_2.exe
